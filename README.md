@@ -34,10 +34,5 @@ Projects MAY:
 * publish packages to relevant language specific repositories such as PyPi, Ruby Gems, NPM, Puppet Forge, etc
 * provide a contribution and governance model in a `GOVERNANCE` file
 * indicate the level of maintainance provided by whom and until when
-* indicate a codebase/project status in the `README`
-  * "Ideation" - Brainstorming phase
-  * "Alpha" - Brainstorming phase
-  * "Beta" - Brainstorming phase
-  * "Production" - Finished Product, development ongoing
-  * "Archival" - Finished Product, development no longer ongoing
+* indicate a codebase/project status in the `README` that is one of: "Ideation"; "Alpha"; "Beta"; "Production"; "Archival"
 * provide a list of contributors in a `CONTRIBUTORS` file
