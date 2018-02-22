@@ -1,6 +1,6 @@
 # Principles for Quality Code
 
-Collaborative code development projects in the SCORE projects have to adhere to certain principles. This document is the standard.
+This document sets out the standard to which inter-regional software development projects in SCORE will be held. It is versioned [in GitHub Releases](https://github.com/score-project/quality-code/releases) and [Issues/Bug Reports](https://github.com/score-project/quality-code/issues) and Pull Requests are welcome.
 
 > The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).
 
