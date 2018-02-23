@@ -11,12 +11,13 @@ Projects MUST:
 * be developed in a public repository from the start
 * provide a link to a public list of known issues and bugs
 * allow non-contributors to post issues, bugs and suggested changes
-* have functional tests
 * have documentation for all public APIs
 * have a `LICENCE` with an [Open Source Initiative designated "Popular License"](https://opensource.org/licenses/category) or [EUPL](https://eupl.eu/)
 
 Projects SHOULD:
 
+* kick ass
+* have functional tests
 * have a high level discription for (technical) management to understand in the `README`
 * respond to incoming issues and change suggestions within a week
 * provide contributors guidelines in a `CONTRIBUTING` file
@@ -25,7 +26,7 @@ Projects SHOULD:
 * have documented private APIs
 * use a version number compatible with [Semantic Versioning](https://semver.org/)
 * provide documentation on privacy and security
-* contain configurations for automatic deployment and provisioning through systems such as Docker, Ansible, CloudForge etc
+* contain configurations for automatic deployment and provisioning through systems such as OpenShift, Docker, Ansible, CloudForge etc
 
 Projects MAY:
 
