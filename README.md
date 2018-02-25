@@ -27,6 +27,7 @@ Projects SHOULD:
 * use a version number compatible with [Semantic Versioning](https://semver.org/)
 * provide documentation on privacy and security
 * contain configurations for automatic deployment and provisioning through systems such as OpenShift, Docker, Ansible, CloudForge etc
+* Use the [GitFlow branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 Projects MAY:
 
