@@ -11,7 +11,7 @@ Projects MUST:
 * be developed in a public repository from the start
 * provide a link to a public list of known issues and bugs
 * allow non-contributors to post issues, bugs and suggested changes
-* have documentation for all public APIs
+* have documentation for all public APIs in the [OpenAPI standard](https://github.com/OAI/OpenAPI-Specification)
 * have a `LICENCE` with an [Open Source Initiative designated "Popular License"](https://opensource.org/licenses/category) or [EUPL](https://eupl.eu/)
 
 Projects SHOULD:
